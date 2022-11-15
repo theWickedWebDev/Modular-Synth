@@ -1,4 +1,6 @@
 # Voltage Controlled Oscillator
 
 ### Live Simulation
-(Falstad)[https://tinyurl.com/267pkfxt]
+https://tinyurl.com/267pkfxt
+
+Produces a Square Wave and a Triangle Wave whose frequency can be adjusted with a course and fine tune potentiometer.
