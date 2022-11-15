@@ -2037,7 +2037,6 @@
   (gr_line (start 67.056 52.832) (end 68.834 52.832) (layer "F.SilkS") (width 0.15) (tstamp f655535a-0067-48a2-b2b6-333fd9bcda1f))
   (gr_line (start 80.01 53.848) (end 81.026 53.848) (layer "F.SilkS") (width 0.15) (tstamp fc8bd717-9386-4e4e-92f3-d637362d6491))
   (gr_rect (start 158.75 45.974) (end 58.674 81.026) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp e9c57fc9-1f9b-4fcb-bb10-b78d43ce6502))
-  (gr_rect (start 170.18 45.72) (end 41.656 81.788) (layer "User.9") (width 0.15) (fill none) (tstamp c4b56483-3333-4b31-bc68-f3d0f90efa4f))
   (gr_text "JLCJLCJLC" (at 59.69 50.292 90) (layer "B.SilkS") (tstamp 08c08ed8-b7e5-42a3-a96b-5d9f2f85525b)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
