@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "(6.0.0-0)"
     },
-    "CreationDate": "2022-11-22T10:59:53-05:00"
+    "CreationDate": "2022-11-30T22:12:17-05:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "AudioJack-Breakout-Panelization",
+      "Name": "AudioJack-Breakout",
       "GUID": "41756469-6f4a-4616-936b-2d427265616b",
       "Revision": "rev?"
     },
     "Size": {
       "X": 94.1,
-      "Y": 76.1
+      "Y": 73.1
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -27,52 +27,52 @@
       "PadToPad": 0.0,
       "PadToTrack": 0.0,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 1.5
+      "MinLineWidth": 1.0
     }
   ],
   "FilesAttributes": [
     {
-      "Path": "AudioJack-Breakout-Panelization-F_Cu.gbr",
+      "Path": "AudioJack-Breakout-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "AudioJack-Breakout-Panelization-B_Cu.gbr",
+      "Path": "AudioJack-Breakout-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "AudioJack-Breakout-Panelization-F_Paste.gbr",
+      "Path": "AudioJack-Breakout-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "AudioJack-Breakout-Panelization-B_Paste.gbr",
+      "Path": "AudioJack-Breakout-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "AudioJack-Breakout-Panelization-F_Silkscreen.gbr",
+      "Path": "AudioJack-Breakout-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "AudioJack-Breakout-Panelization-B_Silkscreen.gbr",
+      "Path": "AudioJack-Breakout-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "AudioJack-Breakout-Panelization-F_Mask.gbr",
+      "Path": "AudioJack-Breakout-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "AudioJack-Breakout-Panelization-B_Mask.gbr",
+      "Path": "AudioJack-Breakout-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "AudioJack-Breakout-Panelization-Edge_Cuts.gbr",
+      "Path": "AudioJack-Breakout-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
