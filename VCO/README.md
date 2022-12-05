@@ -1,3 +1,5 @@
+# NEEDS TO BE UPDATED - NOT WORKING
+
 # Voltage Controlled Oscillator
 
 ### Live Simulation - [Falstad](https://tinyurl.com/267pkfxt)
